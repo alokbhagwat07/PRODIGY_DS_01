@@ -60,7 +60,3 @@ For this task, we used a **population dataset from the World Bank** and created 
 This task demonstrates how data visualization helps in understanding population distribution patterns. Proper data cleaning is essential before visualization to ensure accurate and meaningful insights.
 
 
-
-
-
-This project is for educational and internship purposes only.
