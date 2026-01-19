@@ -39,12 +39,12 @@ For this task, we used a **population dataset from the World Bank** and created 
 
 ## Visualizations Created
 
-### 1) Bar Chart – Top 10 Countries by Population (2022)
+### 1) Bar Chart – Top 10 Countries by Population (2024)
 
 * Displays the ten most populated countries
 * Helps compare population size across countries
 
-### 2️) Histogram – Distribution of Population (2022)
+### 2️) Histogram – Distribution of Population (2024)
 
 * Shows how population is distributed across all countries
 * Highlights skewness in population distribution
